@@ -1,0 +1,85 @@
+C:\Users\tomas\RiderProjects\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\tomas\RiderProjects\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\tomas\RiderProjects\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\tomas\RiderProjects\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\tomas\RiderProjects\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\tomas\RiderProjects\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\RiderProjects\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\tomas\RiderProjects\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\tomas\RiderProjects\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\tomas\RiderProjects\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\tomas\RiderProjects\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\tomas\RiderProjects\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\tomas\RiderProjects\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\tomas\RiderProjects\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+G:\Mit drev\Datamatiker\3 semester\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mit drev\Datamatiker\3 semester\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+G:\Mit drev\Datamatiker\3 semester\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+G:\Mit drev\Datamatiker\3 semester\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+G:\Mit drev\Datamatiker\3 semester\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+G:\Mit drev\Datamatiker\3 semester\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+G:\Mit drev\Datamatiker\3 semester\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\tomas\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\tomas\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\tomas\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\tomas\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\tomas\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\tomas\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\tomas\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\tomas\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\tomas\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\tomas\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\tomas\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\tomas\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\Users\tomas\Desktop\Encryption\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\tomas\Desktop\Encryption\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\tomas\Desktop\Encryption\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\tomas\Desktop\Encryption\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\tomas\Desktop\Encryption\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\tomas\Desktop\Encryption\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\Desktop\Encryption\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\tomas\Desktop\Encryption\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\tomas\Desktop\Encryption\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Desktop\Encryption\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\tomas\Desktop\Encryption\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\tomas\Desktop\Encryption\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\tomas\Desktop\Encryption\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\tomas\Desktop\Encryption\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+G:\Mit drev\Datamatiker\3 semester\Encryption\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+G:\Mit drev\Datamatiker\3 semester\Encryption\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+G:\Mit drev\Datamatiker\3 semester\Encryption\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+G:\Mit drev\Datamatiker\3 semester\Encryption\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+G:\Mit drev\Datamatiker\3 semester\Encryption\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+G:\Mit drev\Datamatiker\3 semester\Encryption\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mit drev\Datamatiker\3 semester\Encryption\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+G:\Mit drev\Datamatiker\3 semester\Encryption\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+G:\Mit drev\Datamatiker\3 semester\Encryption\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+G:\Mit drev\Datamatiker\3 semester\Encryption\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+G:\Mit drev\Datamatiker\3 semester\Encryption\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+G:\Mit drev\Datamatiker\3 semester\Encryption\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+G:\Mit drev\Datamatiker\3 semester\Encryption\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+G:\Mit drev\Datamatiker\3 semester\Encryption\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\Users\tomas\Desktop\Encryption\ConsoleApp1\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\tomas\Desktop\Encryption\ConsoleApp1\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\tomas\Desktop\Encryption\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\tomas\Desktop\Encryption\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CopyComplete
+C:\Users\tomas\OneDrive\Desktop\Encryption\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\tomas\OneDrive\Desktop\Encryption\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\tomas\OneDrive\Desktop\Encryption\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\tomas\OneDrive\Desktop\Encryption\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\tomas\OneDrive\Desktop\Encryption\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\tomas\OneDrive\Desktop\Encryption\ConsoleApp1\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\tomas\OneDrive\Desktop\Encryption\ConsoleApp1\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\tomas\OneDrive\Desktop\Encryption\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\tomas\OneDrive\Desktop\Encryption\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\OneDrive\Desktop\Encryption\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\tomas\OneDrive\Desktop\Encryption\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\tomas\OneDrive\Desktop\Encryption\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Desktop\Encryption\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CopyComplete
+C:\Users\tomas\OneDrive\Desktop\Encryption\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\tomas\OneDrive\Desktop\Encryption\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\tomas\OneDrive\Desktop\Encryption\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\tomas\OneDrive\Desktop\Encryption\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\tomas\OneDrive\Desktop\Encryption\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll

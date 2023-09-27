@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3X9JkLmfviBHH/6kA17x8sacPK9vzVaxxoVbPaJNgWx/rOJ0Z7OIkVWW5deyezd2b5U/UUll0A2sAcT2y1ujLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tomas\\OneDrive\\Desktop\\Encryption\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tomas\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.0-rc.1.23421.29\\microsoft.aspnetcore.cryptography.internal.8.0.0-rc.1.23421.29.nupkg.sha512",
+    "C:\\Users\\tomas\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\8.0.0-rc.1.23421.29\\microsoft.aspnetcore.cryptography.keyderivation.8.0.0-rc.1.23421.29.nupkg.sha512"
+  ],
+  "logs": []
+}
